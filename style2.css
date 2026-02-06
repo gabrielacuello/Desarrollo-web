@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5
+    color: #333
+    text-alin: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.blog {
+    margin: auto;
+    max-width: 800px;
+}
+
+h1 {
+    font-size: 50px;
+    color: #2196F3;
+}
+
+.card {
+    padding: 25px;
+    margin-bottom: 30px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border: none;
+    border-radius: 10px;
+    text-alin: left;
+}
+
+.card h2 {
+    color: #2196F3;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: #2196F3;
+}
+
+.date {
+    color: #888;
+    font-size: 14px;
+}
